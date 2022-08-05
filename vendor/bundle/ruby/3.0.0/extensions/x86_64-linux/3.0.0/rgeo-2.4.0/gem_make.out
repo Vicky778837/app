@@ -1,0 +1,19 @@
+current directory: /home/user/Desktop/ROR/app/vendor/bundle/ruby/3.0.0/gems/rgeo-2.4.0/ext/geos_c_impl
+/home/user/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/user/.rvm/rubies/ruby-3.0.0/lib/ruby/site_ruby/3.0.0 extconf.rb
+checking for geos-config... no
+checking for geos_c.h... no
+**** WARNING: Unable to find GEOS headers or libraries.
+**** Ensure that 'geos-config' is in your PATH or provide that full path via --with-geos-config
+**** Compiling without GEOS support.
+
+current directory: /home/user/Desktop/ROR/app/vendor/bundle/ruby/3.0.0/gems/rgeo-2.4.0/ext/geos_c_impl
+make DESTDIR\= sitearchdir\=./.gem.20220703-28196-5ts6zd sitelibdir\=./.gem.20220703-28196-5ts6zd clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: /home/user/Desktop/ROR/app/vendor/bundle/ruby/3.0.0/gems/rgeo-2.4.0/ext/geos_c_impl
+make DESTDIR\= sitearchdir\=./.gem.20220703-28196-5ts6zd sitelibdir\=./.gem.20220703-28196-5ts6zd
+make: Nothing to be done for 'install'.
+
+current directory: /home/user/Desktop/ROR/app/vendor/bundle/ruby/3.0.0/gems/rgeo-2.4.0/ext/geos_c_impl
+make DESTDIR\= sitearchdir\=./.gem.20220703-28196-5ts6zd sitelibdir\=./.gem.20220703-28196-5ts6zd install
+make: Nothing to be done for 'install'.
